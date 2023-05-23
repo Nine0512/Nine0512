@@ -1,8 +1,8 @@
 ![aleat](https://wallpapercave.com/wp/wp10474943.jpg)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nine0512&show_icons=true&theme=radical)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nine0512&show_icons=true&theme=radical) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nine0512)](https://github.com/Nine0512/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nine0512)](https://github.com/Nine0512/github-readme-stats) -->
 
 <!--
 **Nine0512/Nine0512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
