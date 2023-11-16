@@ -8,12 +8,8 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nine0512&show_icons=true&theme=default#gh-light-mode-only" alt="Nine's GitHub stats"/>
-</p>
-
-<!-- Top Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nine0512" alt="Top Languages"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Nine0512&show_icons=true&theme=default#gh-light-mode-only" alt="Nine's GitHub stats"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nine0512" alt="Top Languages"/>
 </p>
 
 <!-- Tech Stack -->
